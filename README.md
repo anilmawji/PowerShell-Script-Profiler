@@ -1,4 +1,4 @@
-# PowerShell Script Runner
+# PowerShell Script Profiler
 
 Microsoft-focused desktop application for internal IT operations, made with .NET MAUI Blazor Hybrid.
 - Dynamically generates modern UI to interact with PowerShell script blocks
